@@ -1,4 +1,4 @@
-![3](https://github.com/Chamodya23/counter_app/assets/87930614/4dfea0a7-c880-4783-b5e1-7eed86cd6499)![3](https://github.com/Chamodya23/counter_app/assets/87930614/b8dcb17c-86b6-4ad2-a736-ebe542d9923f)# flutter_application_3
+# flutter_application_3
 
 A new Flutter project.
 
@@ -17,9 +17,10 @@ samples, guidance on mobile development, and a full API reference.
 <br>
 
 
-![1](https://github.com/Chamodya23/counter_app/assets/87930614/8e60ddfe-9361-47d6-80ab-65f117d7190d)
-<br>
-![2](https://github.com/Chamodya23/counter_app/assets/87930614/db63c459-e420-4a4b-8135-e8df478d1787)
-<br>
 
-![3](https://github.com/Chamodya23/counter_app/assets/87930614/94d38495-02d6-46d6-9a92-4f39687e7f7e)
+![3](https://github.com/Chamodya23/counter_app/assets/87930614/afcdc032-2244-401a-be3c-ef5d3a0f008b)
+<br>
+![2](https://github.com/Chamodya23/counter_app/assets/87930614/641c77ba-741f-4308-a52e-c633eb867029)
+<br>
+![1](https://github.com/Chamodya23/counter_app/assets/87930614/7b026b40-e837-4e06-a83f-5fa530a370e0)
+
